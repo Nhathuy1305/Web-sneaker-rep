@@ -1,10 +1,10 @@
 :root {
-    --primary-color: #ee4d2d;
+    --primary-color: #74A8DC;
     --white-color: #fff;
     --black-color: #000;
     --text-color: #333;
     --border-color: #dbdbdb;
-    --star-gold-color: #FFCE3E;
+    --star-gold-color: #51A9FF;
 
     --header-height: 120px;
     --navbar-height: 34px;
@@ -194,6 +194,7 @@ html {
     padding: 7px 16px;
     list-style: none;
     display: none;
+    z-index: 1;
 }
 
 .select-input__link {
